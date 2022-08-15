@@ -23,10 +23,10 @@ public class Procedural_4Balls extends PApplet
         size(WIDTH,HEIGHT);
     }
 
-    @Override
+   /* @Override
     public void setup()
     {
-    }
+    }*/
 
     @Override
     public void draw()
@@ -46,7 +46,7 @@ public class Procedural_4Balls extends PApplet
         x4=x4+4;
     }
 
-    private void paintWhite() {
+   /* private void paintWhite() {
         background(255);
-    }
+    }*/
 }
